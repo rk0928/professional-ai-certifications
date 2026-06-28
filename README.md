@@ -34,18 +34,23 @@ The AI Skill Path certification provided foundational knowledge of artificial in
 
 ---
 
-# Repository Contents
+## Repository Contents
 
+This repository includes the following materials from my AI Skill Path certification:
+
+- 📜 **Certificate of Completion** – Official certificate verifying successful completion of the AI Skill Path program.
+- 💻 **Hands-on Jupyter Notebooks** – Practical coding exercises completed throughout the certification.
+- 📝 **Presentation Transcript** – Transcript of the final presentation summarizing the project objectives, methodology, and key takeaways.
+- 📚 **README Documentation** – Overview of the certification, skills gained, and repository organization.
 ```
-.
-├── README.md
-├── certificates/
-│   └── AI_Skill_Path_Certificate.pdf
-├── images/
-│   └── certificate.png
-└── notes/
-    └── ai_skill_path_notes.md
-```
+
+---
+
+## Reflection
+
+Completing this certification strengthened my understanding of practical AI concepts and reinforced the importance of using AI as a tool to improve productivity, support data analysis, and solve real-world problems responsibly.
+
+The hands-on notebooks and presentation allowed me to apply what I learned while building confidence using AI in a professional setting. This certification complements my ongoing studies in Data Management and Analytics and reflects my commitment to continuous learning.
 
 ---
 
@@ -89,9 +94,9 @@ My GitHub showcases coursework, personal projects, and professional development 
 
 ## Connect With Me
 
-**LinkedIn:** *(Add your LinkedIn URL)*
+**LinkedIn:** *https://www.linkedin.com/in/renee-kammeyer/*
 
-**Portfolio:** *(Add your GitHub Pages portfolio URL)*
+**Portfolio:** *(https://github.com/rk0928)*
 
 ---
 
