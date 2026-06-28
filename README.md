@@ -1,12 +1,12 @@
 # Professional AI Certifications
 
-## Overview 
+## Overview
 
-This repository documents the professional artificial intelligence certifications I have earned while pursuing my Bachelor of Science in Data Management and Analytics at Western Governors University (WGU).
+Welcome to my Professional AI Certifications repository.
 
-Artificial intelligence is transforming how organizations analyze data, automate processes, and make business decisions. I believe continuous learning is essential, and I am committed to expanding my knowledge of AI technologies, responsible AI practices, and practical business applications.
+This repository showcases my completed artificial intelligence certifications, hands-on coursework, and supporting materials as I continue developing my technical skills while pursuing a Bachelor of Science in Data Management and Analytics at Western Governors University (WGU).
 
-As I earn additional certifications, they will be added to this repository.
+Artificial Intelligence is transforming the fields of data analytics, automation, and business intelligence. I believe continuous learning is essential, and this repository demonstrates my commitment to expanding my knowledge through practical application and professional development.
 
 ---
 
@@ -16,85 +16,110 @@ As I earn additional certifications, they will be added to this repository.
 
 **Date Earned:** June 27, 2026
 
-### Summary
+### Certification Summary
 
-The AI Skill Path certification provided foundational knowledge of artificial intelligence concepts and practical applications. The coursework emphasized understanding modern AI technologies, effective interaction with AI systems, and applying AI tools to improve productivity and problem-solving in professional environments.
+The AI Skill Path certification introduced core concepts in artificial intelligence and provided practical experience using AI tools to improve productivity, problem-solving, and business workflows.
 
-### Skills Developed
-
-- Artificial Intelligence fundamentals
-- Generative AI concepts
-- Prompt engineering fundamentals
-- AI-assisted productivity
-- Critical thinking with AI-generated content
-- Responsible and ethical AI use
-- Practical AI workflows
-- Business applications of AI
-- AI research techniques
+Throughout the program, I completed hands-on coding exercises using Jupyter Notebooks and demonstrated my understanding through a final presentation summarizing key concepts and learning outcomes.
 
 ---
 
-## Repository Contents
+# Skills Developed
 
-This repository includes the following materials from my AI Skill Path certification:
-
-- 📜 **Certificate of Completion** – Official certificate verifying successful completion of the AI Skill Path program.
-- 💻 **Hands-on Jupyter Notebooks** – Practical coding exercises completed throughout the certification.
-- 📝 **Presentation Transcript** – Transcript of the final presentation summarizing the project objectives, methodology, and key takeaways.
-- 📚 **README Documentation** – Overview of the certification, skills gained, and repository organization.
-```
-
----
-
-## Reflection
-
-Completing this certification strengthened my understanding of practical AI concepts and reinforced the importance of using AI as a tool to improve productivity, support data analysis, and solve real-world problems responsibly.
-
-The hands-on notebooks and presentation allowed me to apply what I learned while building confidence using AI in a professional setting. This certification complements my ongoing studies in Data Management and Analytics and reflects my commitment to continuous learning.
+* Artificial Intelligence Fundamentals
+* Generative AI Concepts
+* Prompt Engineering
+* AI-Assisted Productivity
+* AI Research Techniques
+* Responsible & Ethical AI Use
+* Critical Thinking with AI
+* Practical AI Workflows
+* Business Applications of Artificial Intelligence
+* Jupyter Notebook Development
 
 ---
 
-# Why This Repository Exists
+# Repository Contents
 
-This repository serves as a record of my continued professional development and demonstrates my commitment to lifelong learning.
+This repository contains materials completed as part of the AI Skill Path certification program.
 
-As the fields of data analytics and artificial intelligence continue to evolve, I believe staying current with emerging technologies is essential for building effective, data-driven solutions.
+### Certificate
 
----
+* Official Certificate of Completion
 
-# Future Certifications
+### Coursework
 
-This repository will continue to grow as I complete additional certifications in areas such as:
+* Day 1 Jupyter Notebook
+* Day 2 Jupyter Notebook
+* Day 3 Jupyter Notebook
 
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- SQL
-- Python
-- Cloud Technologies
-- Data Visualization
-- Business Intelligence
+### Presentation
+
+* Final Presentation Transcript (PDF)
 
 ---
 
-## About Me
+# Reflection
 
-I am currently pursuing a Bachelor of Science in Data Management and Analytics at Western Governors University while building a portfolio of projects in:
+Completing this certification strengthened my understanding of how artificial intelligence can be applied responsibly to improve productivity, support data-driven decision making, and solve real-world business challenges.
 
-- SQL
-- Python
-- Data Analytics
-- Database Management
-- Artificial Intelligence
-- Business Intelligence
+The hands-on notebook exercises reinforced practical AI concepts, while the final presentation provided an opportunity to communicate technical ideas clearly and effectively.
 
-My GitHub showcases coursework, personal projects, and professional development as I prepare for a career in data analytics and AI.
+This certification complements my ongoing education in Data Management and Analytics and represents another step toward a career focused on data analytics, artificial intelligence, and business intelligence.
 
 ---
 
-## Connect With Me
+# Technologies Used
 
-**LinkedIn:** *https://www.linkedin.com/in/renee-kammeyer/*
+* Artificial Intelligence Tools
+* Jupyter Notebook
+* Python
+* GitHub
+* Markdown
+
+---
+
+# Future Goals
+
+As I continue my professional development, additional certifications and projects will be added to this repository in areas including:
+
+* Artificial Intelligence
+* Machine Learning
+* Data Analytics
+* SQL
+* Python
+* Business Intelligence
+* Data Visualization
+* Cloud Technologies
+
+---
+
+# About Me
+
+I am currently pursuing a Bachelor of Science in Data Management and Analytics at Western Governors University while building a portfolio of technical projects in:
+
+* SQL
+* Python
+* Database Management
+* Data Analytics
+* Artificial Intelligence
+* Business Intelligence
+
+My GitHub portfolio documents my coursework, personal projects, and professional development as I continue preparing for a career in data analytics.
+
+---
+
+# Connect With Me
+
+**GitHub Portfolio:**
+https://github.com/rk0928
+
+**LinkedIn:**
+https://www.linkedin.com/in/renee-kammeyer/
+
+---
+
+Thank you for taking the time to visit my repository. I hope it provides insight into my commitment to continuous learning, technical growth, and professional development.
 
 **Portfolio:** *(https://github.com/rk0928)*
 
