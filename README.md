@@ -1,6 +1,6 @@
 # Professional AI Certifications
 
-## Overview
+## Overview 
 
 This repository documents the professional artificial intelligence certifications I have earned while pursuing my Bachelor of Science in Data Management and Analytics at Western Governors University (WGU).
 
